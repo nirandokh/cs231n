@@ -1,3 +1,4 @@
+imageio
 Cython==0.23.4
 Jinja2==2.8
 MarkupSafe==0.23
